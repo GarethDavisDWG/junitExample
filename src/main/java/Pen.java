@@ -24,7 +24,7 @@ public class Pen {
         this.colour = colour;
     }
 
-    public String getThickness() {
+    public String getThickness() throws Exception{
         return thickness;
     }
 
